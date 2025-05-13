@@ -16,7 +16,6 @@ The main goal of this project is to practice:
 - **React** (with functional components and hooks)
 - **Redux Toolkit**
 - **json-server** (for mock API)
-- **Axios**
 
 ## ⚙️ Features
 
