@@ -25,6 +25,3 @@ The main goal of this project is to practice:
   - A **name**
   - A **description**
   - An **element** (e.g. fire, water, earth)
-
-## 📁 Project Structure
-
